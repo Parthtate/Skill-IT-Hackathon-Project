@@ -17,7 +17,7 @@ A simple CLI-based YouTube-style video manager built using **core Python**, deve
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3.x
+- **Language:** Python 
 - **Storage:** Local file system (JSON in `youtube.txt`)
 - **No external libraries**, **no database**, **no internet used**
 
@@ -74,6 +74,6 @@ This project is for learning and demonstration purposes. Feel free to fork and b
 
 ## 📬 Contact
 
-**Parth Tale**  
+**Parth Tate**  
 📍 Pune, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/parth-tate-a70331243/)
