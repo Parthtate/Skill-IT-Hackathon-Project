@@ -1,21 +1,21 @@
-# 🎥 YouTube-Style Video Manager (Hackathon Project)
+#  YouTube-Style Video Manager (Hackathon Project)
 
 A simple CLI-based YouTube-style video manager built using **core Python**, developed as a solo project during the **Skill IT Academy Hackathon** (August 2, 2025). The goal was to implement CRUD operations **without internet access**, using plain text files for data storage.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📝 **Create** new video entries (title & duration)
-- 📄 **Read** / list all stored videos
-- ✏️ **Update** video details
-- ❌ **Delete** a video
-- 💾 Data stored in a local file using JSON format (`youtube.txt`)
-- 📂 Built with a single script for simplicity and clarity
+-  **Create** new video entries (title & duration)
+-  **Read** / list all stored videos
+-  **Update** video details
+-  **Delete** a video
+-  Data stored in a local file using JSON format (`youtube.txt`)
+-  Built with a single script for simplicity and clarity
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 
 - **Storage:** Local file system (JSON in `youtube.txt`)
@@ -23,7 +23,7 @@ A simple CLI-based YouTube-style video manager built using **core Python**, deve
 
 ---
 
-## 📷 Demo
+##  Demo
 
 ```bash
 $ python social_media_platform.py
@@ -43,7 +43,7 @@ sample output:
 
 ****************************************
 
-📁 project-root/
+ project-root/
 ├── social_media_platform.py   # Main Python script
 ├── youtube.txt                # Data storage (auto-created on first run)
 └── README.md                  # Project documentation
@@ -51,7 +51,7 @@ sample output:
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Building end-to-end CRUD functionality with Python
 - Managing file I/O without databases
@@ -60,13 +60,13 @@ sample output:
 
 ---
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 Thanks to **Skill IT Academy** for organizing the hackathon and creating an environment to test our limits and learn through code.
 
 ---
 
-## 📜 License
+##  License
 
 This project is for learning and demonstration purposes. Feel free to fork and build upon it!
 
