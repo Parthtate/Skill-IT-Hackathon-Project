@@ -25,8 +25,8 @@ A simple CLI-based YouTube-style video manager built using **core Python**, deve
 
 ##  Demo
 
-```bash
-$ python social_media_platform.py
+bash
+``` $ python social_media_platform.py```
 
  YOUTUBE VIDEOS MANAGER | Select your choice
 1. List all the videos
@@ -62,7 +62,7 @@ sample output:
 
 ##  Acknowledgements
 
-Thanks to **Skill IT Academy** for organizing the hackathon and creating an environment to test our limits and learn through code.
+Thanks to Skill IT Academy for organizing the hackathon and creating an environment to test our limits and learn through code.
 
 ---
 
@@ -72,8 +72,8 @@ This project is for learning and demonstration purposes. Feel free to fork and b
 
 ---
 
-## 📬 Contact
+##  Contact
 
-**Parth Tate**  
-📍 Pune, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/parth-tate-a70331243/)
+Parth Tate  
+ Pune, India  
+ [LinkedIn](https://www.linkedin.com/in/parth-tate-a70331243/)
